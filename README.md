@@ -60,7 +60,7 @@ Identify **6** possible selection/manipulation techniques that you can implement
 #### Possible Techniques (see lectures 13 and 14 for reference):
  - Go-Go
  - Bubble Cursor
- - PRIMS
+ - PRISM
  - Hook
  - Flashlight
  - Flashlight with Aperture Selection
