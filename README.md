@@ -57,6 +57,24 @@ Identify **2** different selection and/or manipulation tasks in your project. De
 ### Identified Technique Options (3 points)
 Identify **6** possible selection/manipulation techniques that you can implement to allow the user to accomplish the previously identified tasks. Describe why the technique is a suitable choice for the chosen task. Specifically, address the affordances the technique provides that are required by the task and why the technique's constraints will not be an issue. **It is possible to use the same technique for different tasks, but you must justify it for both tasks. Each task must have a minimum of 2 identified techniques.**
 
+#### Possible Techniques (see lectures 13 and 14 for reference):
+ - Go-Go
+ - Bubble Cursor
+ - PRIMS
+ - Hook
+ - Flashlight
+ - Flashlight with Aperture Selection
+ - Bendcast
+ - Depth Ray
+ - Fishing Reel
+ - World-In-Miniature
+ - Voodoo Doll
+ - Indirect Widget
+ - Spindle
+ - ISith
+ - A hybrid of any of the listed techniques
+ - A different technique not listed here (you must run this by the professor to verify that it meets the requriements of the assignment)
+
 > [!CAUTION]
 > Reminder: You CANNOT implement basic grabbing or basic pointing for this assignment
 
